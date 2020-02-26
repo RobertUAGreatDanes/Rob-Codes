@@ -1,0 +1,1 @@
+SELECT * FROM icsi410_rob.test_table;
